@@ -1,7 +1,8 @@
 <template>
   <div class="container">
-    <h1>Sondre Nordjore</h1>
-    <p>This is really interresting, I actually made it work! Magic!</p>
+    <h1 class="title">Sondre Nordjore</h1>
+      <p class="subtitle">This is really interresting, I actually made it work! Magic!</p>
+    </div>
   </div>
 </template>
 
